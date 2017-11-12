@@ -15,7 +15,7 @@ PRODUCT_COPY_FILES += \
 
 # Lights
 PRODUCT_PACKAGES += \
-    lights.mt6753
+    lights.mt6737m
 
 # Audio
 PRODUCT_COPY_FILES += \
